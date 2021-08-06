@@ -24,6 +24,9 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 -[Link](https://sameer-shahzada.github.io/Demo-Website/index.html) and ![Image](src)
+-[Link](https://sameer-shahzada.github.io/Demo-Website/index.html) and ![Image](src)
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
